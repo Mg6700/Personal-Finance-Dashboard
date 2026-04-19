@@ -1,4 +1,4 @@
-<img width="1433" height="802" alt="image" src="https://github.com/user-attachments/assets/df0267f0-7eba-46ed-9835-26f927d1a37c" />Personal Finance Analytics: Spending & Savings Optimization
+Personal Finance Analytics: Spending & Savings Optimization
 
 Problem Statement:
 Managing personal finances effectively requires understanding spending patterns, savings behavior, and income trends. This project aims to analyze financial data to identify inefficiencies and optimize savings.
